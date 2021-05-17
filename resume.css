@@ -1,0 +1,435 @@
+html,body {
+  height: 1122px;
+  width: 800px;
+  margin: auto;
+}
+
+body {
+  background-color: #ffffff; 
+}
+
+table.background{
+  background-color:#f2f2f2;
+  width:100% ;
+  height:100%;
+  border:0; 
+  border-spacing:0;
+}
+
+table.outsidebd {
+  border-top: 2.5pt solid black ;
+  border-bottom: 2.5pt solid black  ;
+  border-left:  2.5pt solid black ;
+  border-right: 2.5pt solid black ;
+  width:729px;
+  height:1058px;
+  margin:auto;
+  border-collapse: collapse;
+}
+
+td.barwhite {
+  text-align: center;
+  width:732px;
+  display: block;
+  min-height: 16px; 
+  background-color:#f2f2f2;
+}
+  
+td.bargreen {
+  width:732px;
+  margin:auto;
+  background-color:#538234;
+  display: block; 
+  min-height: 20px;
+}
+p {
+  color: black;
+  text-align: center;
+  font-family: georgia;
+  font-size: 33px; 
+}
+
+td.space {
+  width:60px;  
+}
+
+td.contact {
+  text-align: center;
+  font-family: georgia;
+  font-size: 14;
+  border-top: 0.7pt solid #999999;
+}
+
+td.maxispace {
+width:75px;
+}
+
+td.bar {
+  text-align: center;
+  width:732px;  
+  display: block; 
+  min-height: 58px; 
+  background-color:#f2f2f2;
+}
+td.description {
+  text-align: center;
+  border-top: 4.5pt solid #538234 ;
+  border-bottom: 4.5pt solid #538234 ;
+  width: 588px;
+  line-height: 1.4;
+  word-spacing: 0.4px;
+  letter-spacing: -0.4px;
+  margin:auto;
+  display: block; 
+  height: 216px;
+}
+
+span.title {
+font-size:16pt; 
+font-family:calibri; 
+color:#538234;
+text-decoration: underline;
+font-weight: bold;
+}
+
+td.skills {
+  border-bottom: 4.5pt solid #538234 ;
+  text-align: center;
+  width: 588px;
+  margin-top:13px;
+  display: block; 
+  height: 166px;
+}
+
+table.page {
+  background-color:#f2f2f2;
+  width:100%;
+  height:100%;
+}
+
+table.name {
+  height:113px;
+  width:732px;
+}
+
+td.myname {
+  margin:auto;
+  display: block; 
+  height: 50px;
+}
+
+td.smallbar {
+  width: 732; 
+  margin: auto; 
+  display: block; 
+  height: 113px;
+}
+
+td.statement {
+  width: 732px;
+  margin: auto;
+  display: block; 
+  height: 216px;
+}
+
+span.description{
+ font-size:14pt; 
+ font-family: Gadugi; 
+ color:#000000;
+ font-weight: bold;
+}
+
+
+td.zone {
+  text-align: center;
+  width:724px;
+  margin:auto;
+  display: block; 
+  height: 166px;
+}
+
+span.skills {
+font-size:16pt; 
+font-family:calibri; 
+color:#538234;
+text-decoration: underline;
+line-height: 1.2;
+font-weight: bold;
+}
+
+div.list {
+font-size:11pt; 
+font-family:georgia; 
+color:#000000; 
+text-align:left; 
+line-height: 1.6;
+}
+
+td.education {
+width:732;
+margin:auto;
+text-align: center; 
+margin-top:22px; 
+display: block; 
+height: 59px;
+}
+
+span.education {
+font-size:16pt; 
+font-family:calibri; 
+color:#538234;
+text-decoration: underline;
+line-height: 1;
+font-weight: bold;
+}
+
+td.school {
+margin:auto; 
+display: block; 
+width:611px; 
+border:1.2pt solid; 
+margin-left:52px;
+height: 60pt;
+}
+
+span.school {
+font-size:12pt; 
+text-align: center; 
+font-family:georgia;  
+line-height: 1.5; 
+color:#000000;
+}
+
+td.wide {
+width:732px;
+display: block;
+}
+
+td.grade {
+margin:auto; 
+display: block; 
+width:611px;  
+margin-left:48px;
+margin-top:10px;
+}
+
+span.art {
+font-size:14pt; 
+font-family:georgia; 
+color:#000000; 
+margin-bottom: 10px;
+}
+span.design {
+  font-size:10pt; 
+  font-family:georgia; 
+  color:#636363; 
+  text-align:left;
+}
+
+span.design1{
+  font-size:12pt; 
+  font-family:georgia;
+  color:#000000; 
+  text-align:left; 
+  line-height: 1.3;
+}
+
+div.design {
+  top: 40px; 
+  left:69px;  
+  position: relative; 
+  z-index: 1;
+  font-size:12pt; 
+  font-family:georgia;
+  color:#000000; 
+  text-align:left; 
+  line-height: 1.3;
+}
+
+span.design3 {
+  font-size:12pt; 
+  font-family:georgia; 
+  color:#000000; 
+  text-align:left;
+}
+
+hr.greybar {
+  width:603px; 
+  margin-top:58px; 
+  height:0.7pt solid #999999;
+}
+
+div.school {
+top: 12px; 
+left: 0px;  
+position: relative; 
+z-index: 1; 
+}
+
+span.school1 {
+  font-size:14pt; 
+  font-family:georgia;  
+  color:#000000;
+}
+
+span.date {
+  font-size:12pt; 
+  font-family:georgia;
+  color:#636363;
+}
+
+td.voluntary {
+  margin:auto; 
+  border-top: 0.7pt solid #999999;
+  display: block; 
+  width:611px;  
+  margin-left:48px;
+  margin-top:5px;
+}
+
+div.voluntary {
+  top: 14px; 
+  left: 10px;  
+  position: relative; 
+  z-index: 1; 
+}
+
+div.work {
+  top: 14px; 
+  left: 10px;  
+  position: relative; 
+  z-index: 1; 
+  text-align: center; 
+  font-size:16pt; 
+  font-family:calibri; 
+  color:#538234;
+  text-decoration: underline;
+  line-height: 1;
+  font-weight: bold;
+}
+
+
+
+hr.design {
+  width:603px;
+  margin-top:92px;
+  height:0.7pt solid #999999;
+}
+
+div.tattoo {
+  top: 10px; 
+  left:69px;  
+  position: relative; 
+  z-index: 1; 
+  font-size:12pt; 
+font-family:georgia; 
+color:#000000; 
+text-align:left;
+}
+
+div.interest {
+top: -20px; 
+left:40px;  
+position: relative;
+z-index: 1; 
+font-size:12pt; 
+font-family:georgia; 
+color:#000000; 
+text-align:left; 
+line-height: 1.8; 
+word-spacing: -1px;
+}
+
+div.itsu {
+font-size:12pt; 
+font-family:georgia;
+color:#000000; 
+text-align:left; 
+line-height: 1.3;
+top: 64px; 
+left:69px;  
+position: relative; 
+z-index: 1;
+}
+
+div.design2 {
+  top: 40px; 
+  left:69px;  
+  position: relative; 
+  z-index: 1; 
+  font-size:12pt; 
+  font-family:georgia; 
+  color:#000000; 
+  text-align:left;
+}
+
+div.date3 {
+font-size:10pt; 
+font-family:georgia; 
+color:#636363; 
+text-align:left;
+top: 50px; 
+left:69px;  
+position: relative; 
+z-index: 1;
+}
+
+div.date4 {
+  font-size:10pt; 
+  font-family:georgia; 
+  color:#636363; 
+  text-align:left;
+  top: 22px; 
+  left:69px;  
+  position: relative; 
+  z-index: 1;
+}
+
+div.design4 {
+font-size:12pt; 
+font-family:georgia; 
+color:#000000; 
+text-align:left;
+top: 12px; 
+left:69px;  
+position: relative; 
+z-index: 1;
+}
+
+div.date5 {
+font-size:10pt; 
+font-family:georgia; 
+color:#636363; 
+text-align:left;
+top: 22px; 
+left:69px;  
+position: relative; 
+z-index: 1;
+}
+
+div.ability{
+font-size:12pt; 
+font-family:georgia; 
+color:#000000; 
+text-align:left; 
+line-height: 1.3; 
+word-spacing:-0.3px;
+top: 38px; 
+left:69px;  
+position: relative; 
+z-index: 1;
+}
+
+td.top {
+width:732px;
+margin:auto;
+display: block; 
+height: 145px;
+}
+
+td.interest {
+  width:732px;
+  margin:auto; 
+  display: block; 
+  height: 500px;
+}
